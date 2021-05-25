@@ -22,3 +22,6 @@ MIT
 ```diff 
 + COMPLETE
 ```
+## Authors:
+https://github.com/aleksanderbies </br>
+https://github.com/AdamBarczyk
